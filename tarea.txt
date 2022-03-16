@@ -1,0 +1,19 @@
+1. mostrar por console.log de las 3 formas de escribir:
+a + b
+c - d
+e % f
+a ** c
+b / e
+
+valores a eleccion! pueden probar otras operaciones
+
+2. loopear desde 5 hasta 19 (5, 6, 7...); desde 100 hasta 80 (100, 99, 98...); de 4 a 27 sumando 2 (4, 6, 8...); de 90 a 30 restando 4 (90, 86, 82...)
+
+3.hacer lo mismo con while y do while!
+
+4. crear un objeto con 3 numeros, 2 string, una funcion de resta y una de concatenacion. Probar pasar los valores por constantes por fuera, y con los valores del objeto
+
+5. hacer un array con 10 elementos, usar pop, push, slice y splice para modificarlo.
+
+6. hacer un objeto de animales y sus nombres (elefanta: Claudia, tucan: Roberto). Con console.log mostrar la especie y el nombre.
+
